@@ -141,7 +141,7 @@ def main():
 
     # Вариант 2: Если переменной нет, использовать токен напрямую
     if not token:
-        token = "8481248627:AAFEez1gAQwI_unfiEacnyRqrYqcpJRTq-I"
+        token = ""
 
     # Проверка наличия токена
     if not token:
@@ -167,3 +167,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
